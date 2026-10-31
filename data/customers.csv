@@ -1,0 +1,6 @@
+customer_id,age,email,region
+C001,31,ana@example.com,West
+C002,42,ben@example.com,East
+C003,17,not-an-email,North
+C004,,dee@example.com,South
+C004,,dee@example.com,South
